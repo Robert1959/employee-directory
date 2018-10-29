@@ -1,0 +1,25 @@
+.sidebar {
+    color: aliceblue;
+    height: 100%; 
+    width: 150px; 
+    position: fixed; 
+    background-color: black; 
+    overflow-x: hidden; 
+    padding-top: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+form.input {
+    float: absolute;
+    height: 20%; 
+    width: 100%;
+    padding-top: 50px;
+    font-size: 15px;
+    text-align: center;
+}
+
+main {
+    margin-left: 190px; 
+    padding: 0px 10px;
+
+}
